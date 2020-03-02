@@ -45,6 +45,7 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="Practical" t="Include">
+        <e p="Delegate.cs" t="Include" />
         <e p="MobilePhone.cs" t="Include" />
         <e p="Phone.cs" t="Include" />
       </e>
