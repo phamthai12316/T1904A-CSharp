@@ -9,3 +9,8 @@ D:\T1904A-C\T1904A\obj\Debug\netcoreapp3.1\T1904A.AssemblyInfoInputs.cache
 D:\T1904A-C\T1904A\obj\Debug\netcoreapp3.1\T1904A.AssemblyInfo.cs
 D:\T1904A-C\T1904A\obj\Debug\netcoreapp3.1\T1904A.dll
 D:\T1904A-C\T1904A\obj\Debug\netcoreapp3.1\T1904A.pdb
+D:\Aptech\C#\T1904A-CSharp\obj\Debug\netcoreapp3.1\T1904A.csprojAssemblyReference.cache
+D:\Aptech\C#\T1904A-CSharp\obj\Debug\netcoreapp3.1\T1904A.AssemblyInfoInputs.cache
+D:\Aptech\C#\T1904A-CSharp\obj\Debug\netcoreapp3.1\T1904A.AssemblyInfo.cs
+D:\Aptech\C#\T1904A-CSharp\obj\Debug\netcoreapp3.1\T1904A.dll
+D:\Aptech\C#\T1904A-CSharp\obj\Debug\netcoreapp3.1\T1904A.pdb

@@ -7,6 +7,7 @@
 
     <ItemGroup>
       <Compile Remove="Action.cs" />
+      <Compile Remove="Practical\Run.cs" />
     </ItemGroup>
 
     <ItemGroup>
